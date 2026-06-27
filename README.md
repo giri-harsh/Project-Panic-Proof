@@ -958,6 +958,6 @@ Built with 💜 for the **Google AI Studio Hackathon**
 *Productivity tools should meet people where they are — not where they're supposed to be.*
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giri-harsh/panic-proof-planner)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge)](https://your-demo-link.here)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge)](https://s8.ezgif.com/tmp/ezgif-86e8eac94aabe0b4.gif)
 
 </div>
