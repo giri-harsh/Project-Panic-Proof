@@ -13,13 +13,14 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-6366f1?style=for-the-badge)](https://your-demo-link.here)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-6366f1?style=for-the-badge)](https://panic-proof-278435063776.asia-southeast1.run.app
+)
 [![Demo Video](https://img.shields.io/badge/🎬_Demo_Video-Watch_Now-ef4444?style=for-the-badge)](https://your-video-link.here)
 [![Documentation](https://img.shields.io/badge/📖_Docs-Read_Here-0ea5e9?style=for-the-badge)](#installation)
 
 <br/>
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/panic-proof-planner?style=flat-square&logo=github&color=facc15)
+![GitHub Stars](https://img.shields.io/github/stars/giri-harsh/panic-proof-planner?style=flat-square&logo=github&color=facc15)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)
 ![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript)
@@ -188,7 +189,7 @@ Built for the **Google AI Studio Hackathon**, this application demonstrates what
 
 ### Application Demo
 
-![Demo GIF](https://placehold.co/900x500/0f172a/a5b4fc?text=Demo+GIF+Here)
+![Demo GIF](img\gif2.gif)
 
 <br/>
 
