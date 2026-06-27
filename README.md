@@ -15,7 +15,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-6366f1?style=for-the-badge)](https://panic-proof-278435063776.asia-southeast1.run.app
 )
-[![Demo Video](https://img.shields.io/badge/🎬_Demo_Video-Watch_Now-ef4444?style=for-the-badge)](https://your-video-link.here)
+[![Demo Video](https://img.shields.io/badge/🎬_Demo_Video-Watch_Now-ef4444?style=for-the-badge)]()
 [![Documentation](https://img.shields.io/badge/📖_Docs-Read_Here-0ea5e9?style=for-the-badge)](#installation)
 
 <br/>
@@ -873,7 +873,7 @@ Framer Motion's physics-based animation system and React-native integration make
 
 ## 🗓️ Future Roadmap
 
-```
+
 ### v1.1 — Personalization
 - [ ] Backend user authentication (Firebase Auth)
 - [ ] Cloud-synced profiles and task history
@@ -894,7 +894,6 @@ Framer Motion's physics-based animation system and React-native integration make
 - [ ] Offline-first architecture with service workers
 - [ ] Community-contributed personality profiles
 - [ ] Therapist / coach dashboard view
-```
 
 ---
 
@@ -958,7 +957,7 @@ Built with 💜 for the **Google AI Studio Hackathon**
 
 *Productivity tools should meet people where they are — not where they're supposed to be.*
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/panic-proof-planner)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/giri-harsh/panic-proof-planner)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge)](https://your-demo-link.here)
 
 </div>
